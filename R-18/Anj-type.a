@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>belajar web</title>
+
+    <!--========================== LINK CSS ==========================-->
+
+    <link rel="stylesheet" href="/Assets/CSS/styles.css">
+
+</head>
+
+<body>
+
+    <!--========================== Header ==========================-->
+
+
+    <header id="header">
+        <div class="container">
+            <div id="branding">
+
+                <h1>SMK <span class="highlight">IDN</span></h1>
+
+            </div>
+            <nav>
+
+                <ul>
+                    <li class="current"><a href="index.html" class="current">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="service.html">service</a></li>
+                </ul>
+
+            </nav>
+        </div>
+    </header>
+
+<!----========================== Show Case ==========================-->
+
+<section id="showcase">
+    <div class="container">
+        <h1>Jagoan IT Pinter Ngaji !!!</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut repellendus reprehenderit magnam. Ut culpa vel architecto ad id minima aspernatur repellendus aperiam, similique vitae, placeat nam ea. Similique, eligendi ex!</p>
+    </div>    
+</section>
+
+<!--========================== news letter ==========================-->
+
+<section id="newslatter">
+    <div class="container aligment">
+        <h1>Subscribe untuk mendapat informasi terbaru</h1>
+        <form>
+            <input type="email" placeholder="Enter email...">
+            <input type="submit" value="subcribe" class="button_1">
+        </form>
+    </div>
+</section>
+
+<!--========================== Boxes ==========================-->
+<section id="boxes">
+    <div class="container">
+
+        <div class="box">
+            <img src="/Assets/IMG/3.jpeg" alt="Logo Idn baju batik">
+            <h3>SMK IDN</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat debitis cumque temporibus, commodi nostrum beatae numquam culpa. Id eos nostrum earum aperiam consectetur modi, ducimus, mollitia provident, reiciendis tempore fugiat!          
+            </p>
+        </div>
+
+        <div class="box">
+            <img src="/Assets/IMG/1.jpeg" alt="IDN Fondation">
+            <h3>IDN Fondation</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat debitis cumque temporibus, commodi nostrum beatae numquam culpa. Id eos nostrum earum aperiam consectetur modi, ducimus, mollitia provident, reiciendis tempore fugiat!          
+            </p>
+        </div>
+
+        <div class="box">
+            <img src="/Assets/IMG/2.jpeg" alt="Jurusan">
+            <h3>Jurusan</h3>
+            <p>Loremssds, ipsum dolor sit amet consectetur adipisicing elit. Quaerat debitis cumque temporibus, commodi nostrum beatae numquam culpa. Id eos nostrum earum aperiam consectetur modi, ducimus, mollitia provident, reiciendis tempore fugiat!          
+            </p>
+        </div>
+       
+    
+
+        
+        
+        <!-- <div class="box">
+            <img src="/Assets/IMG/3.jpeg" alt="IDN foundation">
+            <h3>Yayasan IDN</h3>
+        </div>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat debitis cumque temporibus, commodi nostrum beatae numquam culpa. Id eos nostrum earum aperiam consectetur modi, ducimus, mollitia provident, reiciendis tempore fugiat!          
+        </p>
+        </div>
+
+        <div class="box">
+            <img src="/Assets/IMG/5.jpeg" alt="Icon Laptop">
+            <h3>Jurusan</h3>
+        </div>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat debitis cumque temporibus, commodi nostrum beatae numquam culpa. Id eos nostrum earum aperiam consectetur modi, ducimus, mollitia provident, reiciendis tempore fugiat!          
+        </p>
+        </div> -->
+    </div>
+</section>
+<!--========================== ==========================-->
+<footer>
+    <p>SMK IDN Web Responsive</p>
+</footer>
+</body>
+</html>
+
+
